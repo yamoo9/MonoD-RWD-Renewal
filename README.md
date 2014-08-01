@@ -43,6 +43,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 1. Web Design
   * PSD Template
 2. Front-End Development
+  * Git & Github & Gist
   * Windows: CMD & Powershell & Gow | OSX: Terminal
   * Ruby & Gem & Bundler
   * Node.js & NPM
