@@ -41,6 +41,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
   * Breakpoint & Singularitygs & Singularity-extras
 3. CMS & Pay Module
   * Wordpress + WooCommerce + Paygate
+  * Custom Theme Design
 
 ## 스타일 가이드
 * [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
