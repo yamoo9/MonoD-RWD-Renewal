@@ -26,18 +26,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 ## 신기술 사용 유무 체크
 * [HTML5 Please] (http://html5please.com/)
 * [Can I Use] (http://caniuse.com/)
-
-## 스타일 가이드
-* [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
-* [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
-* [Github] (https://github.com/styleguide)
-* [Yelp] (http://www.yelp.com/styleguide)
-* [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
-
-## 벡터 아이콘
-* [iconic] (https://useiconic.com/)
-* [Font Awesomw] (http://fortawesome.github.io/Font-Awesome/icons/)
-* [Icomoon] (https://icomoon.io/)
+* 브라우저/모바일 기기 - 중단점 설정
 
 ## 워크플로우
 1. RWD Design
@@ -52,3 +41,15 @@ MonoD RWD(Responsive Web Design) Renewal Project
   * Breakpoint & Singularitygs & Singularity-extras
 3. CMS & Pay Module
   * Wordpress + WooCommerce + Paygate
+
+## 스타일 가이드
+* [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
+* [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
+* [Github] (https://github.com/styleguide)
+* [Yelp] (http://www.yelp.com/styleguide)
+* [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
+
+## 벡터 아이콘
+* [iconic] (https://useiconic.com/)
+* [Font Awesomw] (http://fortawesome.github.io/Font-Awesome/icons/)
+* [Icomoon] (https://icomoon.io/)
