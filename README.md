@@ -1,7 +1,7 @@
-MonoD RWD Renewal Project
-=========================
+MonoD RWD(Responsive Web Design) Renewal Project
+================================================
 
-[모노디 아트센터](http://monod.co.kr) 웹 사이트 RWD 리뉴얼 프로젝트
+[모노디 아트센터](http://monod.co.kr) - RWD 리뉴얼 프로젝트
 
 ## 고려사항
 1. [반응형 웹: Responsive Web Design](http://mediaqueri.es/)
