@@ -1,12 +1,12 @@
 MonoD RWD Renewal Project
 =========================
 
-모노디 아트센터 웹 사이트 RWD 리뉴얼 프로젝트
+[모노디 아트센터](http://monod.co.kr) 웹 사이트 RWD 리뉴얼 프로젝트
 
 ## 고려사항
-1. 반응형 웹: Responsive Web Design
-2. 모바일 터치 인터페이스: Touch Screens
-3. [구글 머터리얼 디자인](http://www.google.com/design/spec/material-design/introduction.html)
+1. [반응형 웹: Responsive Web Design](http://mediaqueri.es/)
+2. [구글 머터리얼 디자인: Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+3. 모바일 터치 인터페이스: Touch Screens
 
 ## 웹 UI 디자인 패턴
 * 소셜 로그인: Social Login
