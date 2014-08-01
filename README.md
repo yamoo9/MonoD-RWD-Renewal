@@ -22,3 +22,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * 한 눈에 확인 가능한 콘텐츠 뷰: Discoverable Controls
 * 비동기 콘텐츠 로드(무한 스크롤): Infinite Scroll
 * 리플 이펙트(Ripple Effect): [01](http://webdesign.tutsplus.com/tutorials/recreating-the-touch-ripple-effect-as-seen-on-google-design--cms-21655), [02](http://codepen.io/KrisOlszewski/pen/Dnktj)
+
+## 신기술 사용 유무 체크
+* [HTML5 Please] (http://html5please.com/)
+* [Can I Use] (http://caniuse.com/)
