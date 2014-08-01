@@ -31,6 +31,8 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
 * [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
 * [Github] (https://github.com/styleguide)
+* [Yelp] (http://www.yelp.com/styleguide)
+* [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
 
 ## 벡터 아이콘
 * [iconic] (https://useiconic.com/)
