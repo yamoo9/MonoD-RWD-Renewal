@@ -38,3 +38,16 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * [iconic] (https://useiconic.com/)
 * [Font Awesomw] (http://fortawesome.github.io/Font-Awesome/icons/)
 * [Icomoon] (https://icomoon.io/)
+
+## 워크플로우
+1. Web Design
+  * PSD Template
+2. Front-End Development
+  * Windows: CMD & Powershell & Gow | OSX: Terminal
+  * Ruby & Gem & Bundler
+  * Node.js & NPM
+  * Yeoman (Yo + Bower + Grunt)
+  * SASS(SCSS) & Compass & Borbon
+  * Breakpoint & Singularitygs & Singularity-extras
+3. CMS & Pay Module
+  * Wordpress + WooCommerce + Paygate
