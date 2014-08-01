@@ -4,7 +4,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 [모노디 아트센터](http://monod.co.kr) - RWD 리뉴얼 프로젝트
 
 ## 고려사항
-1. [반응형 웹: Responsive Web Design](http://mediaqueri.es/)
+1. [반응형 웹 디자인: Responsive Web Design](http://mediaqueri.es/)
 2. [반응형 로고 디자인: Responsive Logos](http://www.responsivelogos.co.uk/)
 3. 구글 머터리얼 디자인: Material Design - [영문(가이드)](http://www.google.com/design/spec/material-design/introduction.html) | [한글(설명)](http://googledevkr.blogspot.kr/2014/07/this-is-material-design.html)
 4. 모바일 터치 인터페이스: Touch Screens
