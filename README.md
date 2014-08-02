@@ -11,6 +11,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
  * 모바일 터치 인터페이스 대응: Touch Screens - [JS Library](http://www.queness.com/post/11755/11-multi-touch-and-touch-events-javascript-libraries)
 * 그리드 시스템: [황금 그리드](http://goldengridsystem.com/) | [그리드 시스템 생성기](http://www.gridsystemgenerator.com)
 * 구글 메터리얼 디자인: Material Design - [영문(가이드)](http://www.google.com/design/spec/material-design/introduction.html) | [한글(설명)](http://googledevkr.blogspot.kr/2014/07/this-is-material-design.html)
+* 워드프레스(Wordpress) & 페이게이트(Paygate) 결재 모듈(모바일 대응)
 
 ## 웹 UI 디자인 패턴
 * 소셜 로그인: Social Login
