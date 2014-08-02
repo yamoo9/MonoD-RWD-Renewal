@@ -56,5 +56,5 @@ MonoD RWD(Responsive Web Design) Renewal Project
 
 ## 벡터 그래픽(아이콘 폰트, SVG)
 * [iconic] (https://useiconic.com/)
-* [Font Awesomw] (http://fortawesome.github.io/Font-Awesome/icons/)
+* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
 * [Icomoon] (https://icomoon.io/)
