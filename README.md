@@ -54,7 +54,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * [Yelp] (http://www.yelp.com/styleguide)
 * [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
 
-## 벡터 아이콘
+## 벡터 그래픽(아이콘 폰트, SVG)
 * [iconic] (https://useiconic.com/)
 * [Font Awesomw] (http://fortawesome.github.io/Font-Awesome/icons/)
 * [Icomoon] (https://icomoon.io/)
