@@ -47,6 +47,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
   * Custom Theme Design
 
 ## 스타일 가이드
+* [Google Material] (http://www.google.com/design/spec/style/typography.html)
 * [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
 * [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
 * [Github] (https://github.com/styleguide)
