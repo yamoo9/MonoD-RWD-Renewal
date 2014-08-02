@@ -7,9 +7,9 @@ MonoD RWD(Responsive Web Design) Renewal Project
 1. [반응형 웹 디자인: Responsive Web Design](http://mediaqueri.es/)
 2. [반응형 로고 디자인: Responsive Logos](http://www.responsivelogos.co.uk/)
 3. 구글 메터리얼 디자인: Material Design - [영문(가이드)](http://www.google.com/design/spec/material-design/introduction.html) | [한글(설명)](http://googledevkr.blogspot.kr/2014/07/this-is-material-design.html)
-4. 모바일 터치 인터페이스 대응: Touch Screens
-5. 그리드 시스템: [황금 그리드](http://goldengridsystem.com/) | [그리드 시스템 생성기](http://www.gridsystemgenerator.com)
-6. 모바일 퍼스트(Mobile First)
+4. 모바일 퍼스트(Mobile First)
+5. 모바일 터치 인터페이스 대응: Touch Screens
+6. 그리드 시스템: [황금 그리드](http://goldengridsystem.com/) | [그리드 시스템 생성기](http://www.gridsystemgenerator.com)
 
 ## 웹 UI 디자인 패턴
 * 소셜 로그인: Social Login
