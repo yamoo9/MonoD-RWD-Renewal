@@ -44,6 +44,9 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
 * [Icomoon] (https://icomoon.io/)
 
+## 레퍼런스
+* [워드프레스] (http://developer.wordpress.org/reference/)
+
 ## 워크플로우
 1. RWD Design
   * PSD Template - Main & Sub Pages
