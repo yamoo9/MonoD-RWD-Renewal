@@ -10,6 +10,7 @@ MonoD RWD(Responsive Web Design) Renewal Project
 4. 모바일 퍼스트(Mobile First): [도서](http://www.abookapart.com/products/mobile-first) | [개념 설명 - 슬라이드쉐어](http://www.slideshare.net/ektron/mobile-first-lukew-15174978)
 5. 모바일 터치 인터페이스 대응: Touch Screens - [JS Library](http://www.queness.com/post/11755/11-multi-touch-and-touch-events-javascript-libraries)
 6. 그리드 시스템: [황금 그리드](http://goldengridsystem.com/) | [그리드 시스템 생성기](http://www.gridsystemgenerator.com)
+7. 웹 접근성 고려: [WAI-ARIA](http://www.w3.org/WAI/intro/aria) | [KWCAG 2.1](http://www.tta.or.kr/data/ttas_view.jsp?rn=1&pk_num=TTAK.OT-10.0003%2FR2)
 
 ## 웹 UI 디자인 패턴
 * 소셜 로그인: Social Login
