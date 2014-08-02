@@ -31,6 +31,19 @@ MonoD RWD(Responsive Web Design) Renewal Project
 * [HTML5 Please] (http://html5please.com/)
 * [Can I Use] (http://caniuse.com/)
 
+## 스타일 가이드
+* [Google Material] (http://www.google.com/design/spec/style/typography.html)
+* [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
+* [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
+* [Github] (https://github.com/styleguide)
+* [Yelp] (http://www.yelp.com/styleguide)
+* [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
+
+## 벡터 그래픽(아이콘 폰트, SVG)
+* [iconic] (https://useiconic.com/)
+* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
+* [Icomoon] (https://icomoon.io/)
+
 ## 워크플로우
 1. RWD Design
   * PSD Template - Main & Sub Pages
@@ -47,16 +60,3 @@ MonoD RWD(Responsive Web Design) Renewal Project
   * Custom Theme Design
  
 ![sparkbox 반응형 웹 프로세스] (https://cdn.tutsplus.com/webdesign/uploads/legacy/articles/111_rwd_process/rwd-process.jpg "sparkbox 반응형 웹 프로세스")
-
-## 스타일 가이드
-* [Google Material] (http://www.google.com/design/spec/style/typography.html)
-* [herokuapp] (http://sfdc-styleguide.herokuapp.com/?id=style)
-* [Starbucks] (http://www.starbucks.com/static/reference/styleguide/)
-* [Github] (https://github.com/styleguide)
-* [Yelp] (http://www.yelp.com/styleguide)
-* [Web Style Guide] (http://webstyleguide.com/wsg3/index.html)
-
-## 벡터 그래픽(아이콘 폰트, SVG)
-* [iconic] (https://useiconic.com/)
-* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/)
-* [Icomoon] (https://icomoon.io/)
