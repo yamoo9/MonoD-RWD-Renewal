@@ -31,6 +31,7 @@
     - [ ] 구운 치즈 꼬치
     - [ ] 교동 왕 닭꼬치
     - [ ] 전동호떡
+    - [ ] ['그 외....'](http://blog.naver.com/smileunu?Redirect=Log&logNo=220020641517)
     
     
 
